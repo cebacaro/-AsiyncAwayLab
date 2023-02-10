@@ -20,5 +20,3 @@ const findPassword = async () => {
 };
 
 findPassword();
-
-console.log()
